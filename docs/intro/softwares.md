@@ -29,7 +29,7 @@ sed -i 's/make $/make -j 1 $/g' make
 cp Lemon ~
 cd ..
 ```
-
+3
 #### 数据格式
 
 首先打开 lemon 选择新建试题，而后打开新建试题的文件夹
